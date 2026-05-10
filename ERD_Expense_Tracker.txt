@@ -1,0 +1,16 @@
+Expense Tracker ERD
+
++-------------+          +-------------+
+|  Category   |          |   Expense   |
++-------------+          +-------------+
+| id PK       | 1      * | id PK       |
+| name        |----------| title       |
++-------------+          | amount      |
+                         | date        |
+                         | categoryId FK|
+                         +-------------+
+
+Relationship:
+Category 1 ---- * Expense
+
+One category can contain many expenses, and each expense belongs to one category.

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExpenseTrackerAssignment1</string>
+    <string name="add_expense">إضافة مصروف</string>
+    <string name="expense_list">قائمة المصاريف</string>
+    <string name="expense_subtitle">ستظهر المصاريف المحفوظة هنا مع التصنيف والتاريخ</string>
+    <string name="expense_saver">حفظ المصروف</string>
+    <string name="expense_saver_subtitle">أدخل تفاصيل المصروف واحفظها بسهولة</string>
+    <string name="enter_expense_title">عنوان المصروف</string>
+    <string name="enter_amount">المبلغ</string>
+    <string name="enter_category">التصنيف</string>
+    <string name="insert">إضافة</string>
+    <string name="empty_not_saved">لم يتم حفظ المصروف</string>
+</resources>
