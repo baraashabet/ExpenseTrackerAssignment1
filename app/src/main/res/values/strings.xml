@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ExpenseTrackerAssignment!</string>
+    <string name="app_name">Assignment1</string>
     <string name="add_expense">إضافة مصروف</string>
     <string name="expense_list">قائمة المصاريف</string>
     <string name="expense_subtitle">ستظهر المصاريف المحفوظة هنا مع التصنيف والتاريخ</string>
